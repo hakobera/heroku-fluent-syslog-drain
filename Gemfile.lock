@@ -20,7 +20,7 @@ GEM
       tzinfo-data (>= 1.0.0)
       yajl-ruby (~> 1.0)
     http_parser.rb (0.6.0)
-    json (1.8.2)
+    json (2.6.1)
     msgpack (0.5.10)
     sigdump (0.2.2)
     thread_safe (0.3.4)
